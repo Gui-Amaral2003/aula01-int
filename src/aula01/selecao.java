@@ -1,3 +1,4 @@
+package aula01;
 public class selecao {
     public static void main(String[] args) {
         int a = 10;

@@ -1,3 +1,4 @@
+package atividades.atividadesAvaliativas;
 public class atv001 {
     public class Main {
         public static int abs(int n) {
@@ -28,7 +29,6 @@ public class atv001 {
                 }
                 xn = xn1;
             }
-    
             return xn1;
         }
         
